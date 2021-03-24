@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, ich bin Josef. Ich helfe dir gern bei allem, was digital ist.'
+    title: 'Hallo, ich bin Josef.'
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
